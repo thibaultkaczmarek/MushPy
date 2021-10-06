@@ -7,6 +7,8 @@ Here enclosed are all files related to the MushPy project which includes:
 - Models
 - Report
 
+All files are in French language.
+
 ## Context
 MushPy project is a Data Science project carried out as part of the Data Scientist training at DataScientest.
 It has the aim to allow the students to be entirely involved in a Data Science project in the conditions of a professional data team.
